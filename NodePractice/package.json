@@ -1,0 +1,16 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "practicing node",
+  "license": "ISC",
+  "author": "Siva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon CreatingServer.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
